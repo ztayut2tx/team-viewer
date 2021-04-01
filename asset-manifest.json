@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/team-viewer/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/team-viewer/static/js/main.ef29888f.chunk.js",
+    "main.js.map": "/team-viewer/static/js/main.ef29888f.chunk.js.map",
+    "runtime-main.js": "/team-viewer/static/js/runtime-main.1cbd78d2.js",
+    "runtime-main.js.map": "/team-viewer/static/js/runtime-main.1cbd78d2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/team-viewer/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c0cca400.chunk.js": "/team-viewer/static/js/2.c0cca400.chunk.js",
+    "static/js/2.c0cca400.chunk.js.map": "/team-viewer/static/js/2.c0cca400.chunk.js.map",
+    "static/js/3.03b31b6d.chunk.js": "/team-viewer/static/js/3.03b31b6d.chunk.js",
+    "static/js/3.03b31b6d.chunk.js.map": "/team-viewer/static/js/3.03b31b6d.chunk.js.map",
+    "index.html": "/team-viewer/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/team-viewer/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/team-viewer/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c0cca400.chunk.js.LICENSE.txt": "/team-viewer/static/js/2.c0cca400.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cbd78d2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c0cca400.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ef29888f.chunk.js"
+  ]
+}
