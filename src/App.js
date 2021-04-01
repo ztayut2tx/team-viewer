@@ -6,11 +6,13 @@ import teamSearch from "./components/EmployeeSearch";
 
 function App() {
   return (
+  <Container>
     <Header />
-    <Container>
-      <EmployeeSearch />
-    </Container>
+      <teamSearch />
+  </Container>
+
   );
 }
+
 
 export default App;
