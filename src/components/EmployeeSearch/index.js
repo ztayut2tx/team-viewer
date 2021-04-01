@@ -30,7 +30,7 @@ class TeamSearch extends Component {
                 <div className="row" key={idx}>
                    <img src={results.picture.thumbnail} alt= "image"></img>
                    <div className="col-sm">
-                       Name {results.name.first}
+                       {results.name.first}
                        {results.name.last}
                        </div>
                     <div className="col-sm">{results.cell}</div>
