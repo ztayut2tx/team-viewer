@@ -8,7 +8,7 @@ class TeamSearch extends Component {
         results: [],
         endResults: [],
     };
-
+//renders data for effiecency
     componentDidMount() {
         API.getEmployees()
        .then((res) => {
